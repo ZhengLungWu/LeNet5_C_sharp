@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
+// this section is refered from https://github.com/patrickmeiring/LeNet
 namespace LeNet5
 {
     class Weight
